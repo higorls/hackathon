@@ -3,6 +3,7 @@ Apprendiz - Educação Empresaria Descomplicada
 ###################
 Aplicação WEB voltada pra dispositivos mobiles.
 Desenvolvida em PHP através do frameword Codeigniter.
+
 ###################
 Quem somos?
 ###################
