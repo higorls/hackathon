@@ -1,0 +1,1 @@
+Disponível apenas para mobile
